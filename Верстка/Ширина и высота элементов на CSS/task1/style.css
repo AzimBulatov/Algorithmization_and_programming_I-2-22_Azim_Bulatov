@@ -1,0 +1,22 @@
+p {
+	color: orange;
+}
+h1 {
+	color: green;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	color: red;
+}
+h4 {
+	color: rgb(310, 126, 504);
+}
+h5 {
+	color: #000000;
+}
+p {
+	width: 300px;
+	height: 200px;
+}
