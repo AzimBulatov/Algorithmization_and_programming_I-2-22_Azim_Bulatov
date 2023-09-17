@@ -1,0 +1,70 @@
+№1
+let num = 3;
+alert(++num);
+Ответ: 4
+
+
+№2
+let num = 3;
+alert(num++);
+Ответ: 3
+
+
+№3
+let num = 3;
+alert(--num);
+Ответ: 2
+
+
+
+№4
+let num = 3;
+alert(num--);
+Ответ: 3
+
+
+
+
+№5
+let num1 = 3;
+let num2 = ++num1;
+alert(num1);
+alert(num2);
+Ответ: 4, 4
+
+
+
+№6
+let num1 = 3;
+let num2 = num1++;
+alert(num1);
+alert(num2);
+Ответ: 4, 4
+
+
+
+№7
+let num1 = 3;
+let num2 = --num1;
+alert(num1);
+alert(num2);
+Ответ: 2, 2
+
+
+
+№8
+let num1 = 3;
+let num2 = num1--;
+alert(num1);
+alert(num2);
+2, 3
+
+
+
+№9
+let num1 = 3;
+num1++;
+let num2 = num1--;
+alert(num1++);
+alert(--num2);
+Ответ: 4, 3
