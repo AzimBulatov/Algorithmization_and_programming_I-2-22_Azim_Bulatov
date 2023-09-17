@@ -1,8 +1,0 @@
-li {
-	border: 1px solid red;
-	width: 100px;
-}
-li:empty {
-    border: 1px solid blue;
-	width: 100px;
-}
