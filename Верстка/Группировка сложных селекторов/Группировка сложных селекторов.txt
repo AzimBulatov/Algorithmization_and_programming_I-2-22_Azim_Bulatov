@@ -1,0 +1,71 @@
+№1
+Упростите код, используя группировку селекторов:
+#block h1, #block h2 {
+	text-align: center;
+}
+
+
+
+№2
+Упростите код, используя группировку селекторов:
+#block h1, #block h2 {
+	text-align: center;
+#block h1 {
+	font-size: 30px;
+}
+#block h2 {
+	font-size: 20px;
+}
+
+
+
+№3
+Упростите код, используя группировку селекторов:
+#block h1, #block h2, #block h3 {
+	text-align: center;
+}
+#block h2 {
+	color: blue;
+}
+#block h3 {
+	font-size: 16px;
+	color: red;
+}
+
+
+
+
+№4
+Упростите код, используя группировку селекторов:
+
+
+#block h1.eee, #block h2.zzz {
+	text-align: center;
+}
+#block h1.eee {
+	font-size: 30px;
+#block h2.zzz {
+	font-size: 20px;
+}
+
+
+
+
+
+№5
+Упростите код, используя группировку селекторов:
+
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
+}
+
+
+
+
+
+№6
+Упростите код, используя группировку селекторов:
+
+.eee h2.zzz, .xxx {
+	text-align: center;
+}
